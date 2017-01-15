@@ -4,4 +4,4 @@
 
 # 个人网站
 
-[www.laixiangran.cn](www.laixiangran.cn)
+[www.hist.ac.cn](www.hist.ac.cn)
