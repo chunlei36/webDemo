@@ -4,4 +4,4 @@
 
 # 个人网站
 
-[www.hist.ac.cn](www.hist.ac.cn)
+www.hist.ac.cn
